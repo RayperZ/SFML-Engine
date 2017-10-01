@@ -1,0 +1,9 @@
+Debug/
+Release/
+x64/
+*.lib
+*.dll
+*.vcxproj
+*.filters
+*.user
+*.cd
